@@ -1,4 +1,4 @@
-<h1 align="center">Hi, people call me fuu</h1>
+<h1 align="center">Hi, people call me fuuku, but "fuu" for short</h1>
 <h3 align="center">A websec kiddie</h3>
 
 - I’m currently a sophomore majoring in Cyber Security at **VNU-HCM.UIT**
