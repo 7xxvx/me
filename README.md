@@ -1,4 +1,4 @@
-<h1 align="center">I'm either fuu or rekkie</h1>
+<h1 align="center">fuu</h1>
 <h3 align="center">A websec kiddie</h3>
 
 - I’m currently a sophomore majoring in Cyber Security at **VNU-HCM.UIT**
