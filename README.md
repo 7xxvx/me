@@ -1,5 +1,5 @@
 <h1 align="center">fuu</h1>
-<h3 align="center">A websec kiddie</h3>
+<h3 align="center">kiddie</h3>
 
 - I’m majoring in Cyber Security at **VNU-HCM.UIT**
 
