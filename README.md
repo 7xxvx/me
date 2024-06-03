@@ -1,7 +1,7 @@
 <h1 align="center">fuu</h1>
 <h3 align="center">A websec kiddie</h3>
 
-- I’m currently a junior majoring in Cyber Security at **VNU-HCM.UIT**
+- I’m majoring in Cyber Security at **VNU-HCM.UIT**
 
 - 📫 Contact me via this email: **ny4npa5ub@gmail.com**
 
